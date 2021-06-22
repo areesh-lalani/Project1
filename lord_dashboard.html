@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Lord Dashboard</title>
+    <link rel="stylesheet" href="lordDashboard.css">
+</head>
+
+<body>
+    <div class="knightTable" id="kTable">
+        <header id="header">Your reimbursement requests</header>
+        <table id="table" style=display:block>
+            <thead id="tableHead">
+                <th id="col1"> Reimubrsement ID </th>
+                <th id="col2"> Amount</th>
+                <th id="col3"> Reason </th>
+                <th id="col4"> Status</th>
+                <th id="col5"> Message</th>
+            </thead>
+        </table>
+    </div>
+
+    <div class="form" , id="popup">
+        <div class="formHeader" , id="fHeader">
+            <div class="formTitle" , id="fHeader">Plea for Aid</div>
+            <button class="closeButton" , id="exit">&times;</button>
+        </div>
+        <div class="formBody" , id="fBody">
+            <input type=text id="message" placeholder="message">
+            <input type="radio" name="status" id="approve">
+            <label for="knight">Approve</label>
+            <input type="radio" name="status" id="deny">
+            <label for="lord">Deny</label>
+            <button class="submitButton" , id="submit">Judge Request</button>
+        </div>
+    </div>
+    <div id="overlay"></div>
+
+    <button id="stats"> See Statistics </button>
+
+
+
+
+</body>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search)
+    const user = urlParams.get("lord");
+    const header = document.getElementById("header");
+
+    const r_id = document.getElementById("col1");
+    const r_amount = document.getElementById("col2");
+    const r_reason = document.getElementById("col3");
+    const r_status = document.getElementById("col4");
+    const r_message = document.getElementById("col5");
+    header.innerHTML = `Lord ${user}'s requests for aid`
+    const table = document.getElementById("table");
+    let lordInfo = null;
+    let knightList = null;
+
+    const closeForm = document.getElementById("exit");
+    const overlay = document.getElementById("overlay");
+    const form = document.getElementById("popup");
+    const submitButton = document.getElementById("submit");
+
+    const statsButton = document.getElementById("stats");
+
+    async function grab() {
+        const lord = await fetch(`http://127.0.0.1:5000/lords/${user}`);
+        const body = await lord.json()
+        lordInfo = body;
+        console.log(body.lordId);
+        const knightIds = await fetch(`http://127.0.0.1:5000/lords/knights/${body.lordId}`);
+        return knightList = await knightIds.json();
+    }
+
+    async function grabReimbursements() {
+        let list = await grab();
+        for (let i = 0; i < list.length; i++) {
+            let id = list[i].knightId;
+            let reimbursementResponse = await fetch(`http://127.0.0.1:5000/knights/reimbursements/${id}`);
+            return reimbursements = await reimbursementResponse.json();
+        }
+    }
+
+
+    async function renderTable() {
+        let list = await grabReimbursements();
+        //let tBody = document.createElement("tbody");
+        console.log(list);
+        for (let i = 0; i < list.length; i++) {
+            const row = document.createElement('tr');
+            let re_id = reimbursements[i].reimbursementId;
+            let re_amount = reimbursements[i].amount;
+            let re_reason = reimbursements[i].reason;
+            let re_status = reimbursements[i].status;
+            let re_message = ""
+            if (reimbursements[i].message != null) {
+                re_message = reimbursements[i].message
+            }
+
+            row.className = "reimbursementRow";
+            row.innerHTML = `<td> ${re_id} </td>
+                        <td> ${re_amount} </td>
+                        <td> ${re_reason} </td>
+                        <td> ${re_status} </td>
+                        <td> ${re_message} </td>
+                        <td> <button id = ${re_id}, class = "editButton", onclick = viewRequest(${re_id})> View Request </button> </td>`
+            table.append(row)
+        }
+    }
+
+    function viewRequest(rId) {
+        console.log(rId)
+        sessionStorage.setItem("rId", rId)
+        form.classList.add('active')
+        overlay.classList.add("active")
+    }
+
+    closeForm.addEventListener('click', () => {
+        form.classList.remove('active');
+        overlay.classList.remove('active');
+    })
+
+    submitButton.addEventListener('click', () => {
+        form.classList.remove('active');
+        overlay.classList.remove('active');
+        let message = document.getElementById("message");
+        let status = "Under Consideration"
+        if (document.getElementById("approve").checked) {
+            status = "Approved"
+        }
+        else if (document.getElementById("deny").checked) {
+            status = "Denied"
+        }
+        let data = {
+            "message": message.value,
+            "status": status,
+            "rId": sessionStorage.getItem("rId")
+        }
+        fetch(`http://127.0.0.1:5000/lords/reimbursements`, {
+            method: 'PATCH',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+        })
+        //renderTable();
+    })
+
+    statsButton.addEventListener('click', () => {
+        window.location.href = `statistics.html?lord=${user}`
+    })
+
+
+    document.addEventListener('DOMContentLoaded', async function () {
+        renderTable();
+    });
+
+</script>

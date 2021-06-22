@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Statistics</title>
+    <link rel="stylesheet" href="statistics.css">
+</head>
+
+<body>
+    <div id="chart">
+        <canvas id="myChart" width="100" height="100"> </canvas>
+    </div>
+    <div id="barDiv">
+        <canvas id="barChart" width="100" height="100"> </canvas>
+    </div>
+
+
+
+
+</body>
+<script src="node_modules/chart.js/dist/chart.js"></script>
+<script>
+    let labels = [];
+    let barLabels = [];
+    let dataset = [];
+    let barData = [];
+    const reasonAmount = document.getElementById("reasonAmount");
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const btx = document.getElementById('barChart').getContext('2d');
+
+
+    const colorScheme = [
+        "#25CCF7", "#FD7272", "#54a0ff", "#00d2d3",
+        "#1abc9c", "#2ecc71", "#3498db", "#9b59b6", "#34495e",
+        "#16a085", "#27ae60", "#2980b9", "#8e44ad", "#2c3e50",
+        "#f1c40f", "#e67e22", "#e74c3c", "#ecf0f1", "#95a5a6",
+        "#f39c12", "#d35400", "#c0392b", "#bdc3c7", "#7f8c8d",
+        "#55efc4", "#81ecec", "#74b9ff", "#a29bfe", "#dfe6e9",
+        "#00b894", "#00cec9", "#0984e3", "#6c5ce7", "#ffeaa7",
+        "#fab1a0", "#ff7675", "#fd79a8", "#fdcb6e", "#e17055",
+        "#d63031", "#feca57", "#5f27cd", "#54a0ff", "#01a3a4"
+    ]
+    let colors = []
+    let barColors = []
+
+    async function grab() {
+        const lord = await fetch(`http://127.0.0.1:5000/lords/${user}`);
+        const body = await lord.json()
+        lordInfo = body;
+        console.log(body.lordId);
+        const knightIds = await fetch(`http://127.0.0.1:5000/lords/knights/${body.lordId}`);
+        knightList = await knightIds.json();
+        for (let i = 0; i < knightList.length; i++) {
+            if (barLabels[i] == undefined) {
+                barLabels.push(knightList[i].firstName)
+            }
+        }
+        return knightList;
+    }
+
+
+    async function grabReimbursements() {
+        let list = await grab();
+        for (let i = 0; i < list.length; i++) {
+            let id = list[i].knightId;
+            let reimbursementResponse = await fetch(`http://127.0.0.1:5000/knights/reimbursements/${id}`);
+            return reimbursements = await reimbursementResponse.json();
+        }
+    }
+
+    async function barAmounts() {
+        let list = await grabReimbursements();
+        for (let i = 0; i < knightList.length; i++) {
+            barData[i] = 0
+            for (let j = 0; j < list.length; j++) {
+                if (knightList[i].knightId == list[j].kId) {
+                    barData[i] = barData[i] + list[j].amount
+                }
+            }
+        }
+
+    }
+
+    async function amountStats() {
+        let list = await grabReimbursements();
+        console.log(list);
+        for (let i = 0; i < list.length; i++) {
+            const row = document.createElement('tr');
+            let re_id = reimbursements[i].reimbursementId;
+            let re_amount = reimbursements[i].amount;
+            let re_reason = reimbursements[i].reason;
+            let re_status = reimbursements[i].status;
+            let re_message = ""
+            if (reimbursements[i].message != null) {
+                re_message = reimbursements[i].message
+            }
+
+
+
+            if (labels.indexOf(re_reason) != -1) {
+                let index = labels.indexOf(re_reason)
+                dataset[index] = dataset[index] + re_amount
+            }
+            else {
+                labels.push(re_reason);
+                dataset.push(re_amount)
+            }
+
+        }
+    }
+
+    async function pieChart() {
+        await amountStats()
+        for (let i = 0; i < labels.length; i++) {
+            colors[i] = colorScheme[i]
+        }
+        const myChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Expenses by type',
+                    data: dataset,
+                    backgroundColor: colors
+                }],
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                }
+
+            }
+        })
+
+    }
+
+
+    async function bar() {
+        await barAmounts();
+        for (let i = 0; i < labels.length; i++) {
+            barColors[i] = colorScheme[i]
+        }
+        const myChart = new Chart(btx, {
+            type: 'bar',
+            data: {
+                labels: barLabels,
+                datasets: [{
+                    label: 'Expenses by Knight',
+                    data: barData,
+                    backgroundColor: barColors
+                }],
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                }
+
+            }
+        })
+    }
+
+
+
+
+    const urlParams = new URLSearchParams(window.location.search)
+    const user = urlParams.get("lord");
+    const header = document.getElementById("header");
+
+
+
+
+    document.addEventListener('DOMContentLoaded', async function () {
+        await pieChart();
+        await bar();
+
+    });
+
+
+
+
+</script>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href='login.css'>
+</head>
+
+<body>
+
+    <div id="box">
+        <input id="user" type="text" placeholder="username">
+        <br>
+        <input id="pass" type="text" placeholder="password">
+        <br>
+        <input type="radio" name="standing" id="knight" checked>
+        <label for="knight">Knight</label>
+        <input type="radio" name="standing" id="lord">
+        <label for="lord">Lord</label>
+        <br>
+        <button onclick="login()" id="loginButton"> Login </button>
+    </div>
+
+    <a href="knight_dashboard.html"></a>
+    <script>
+        //const loginButton = document.getElementById("loginButton")
+
+
+        async function login() {
+            const user = document.getElementById("user")
+            const pass = document.getElementById("pass")
+            const data = {
+                userName: user.value,
+                passWord: pass.value
+            }
+            console.log(data)
+            if (document.getElementById("knight").checked) {
+                console.log("trying to login as a knight")
+                const response = await fetch(`http://127.0.0.1:5000/knights`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                })
+                if (response.status == 201) {
+                    window.location.href = `knight_dashboard.html?knight=${user.value}`
+                    console.log("pass")
+                }
+                else {
+                    console.log(response.status)
+                }
+            }
+            else {
+                console.log("trying to login as a lord")
+                const response = await fetch(`http://127.0.0.1:5000/lords`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                })
+                if (response.status == 201) {
+                    window.location.href = `lord_dashboard.html?lord=${user.value}`
+                    console.log("pass")
+                }
+                else {
+                    console.log(response.status)
+                }
+
+            }
+
+        };
+    </script>
+
+
+
+</body>

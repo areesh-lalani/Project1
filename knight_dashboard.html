@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Knight Dashboard</title>
+    <link rel="stylesheet" href="knightDashboard.css">
+</head>
+
+<body>
+
+    <button id="send"> Request Aid</button>
+
+    <div class="form" , id="popup">
+        <div class="formHeader" , id="fHeader">
+            <div class="formTitle" , id="fHeader">New Plea for Aid</div>
+            <button class="closeButton" , id="exit">&times;</button>
+        </div>
+        <div class="formBody" , id="fBody">
+            <input type=number id="amount" placeholder="amount">
+            <input type=text id="reason" placeholder="reason">
+            <button class="submitButton" , id="submit">Send Plea</button>
+        </div>
+    </div>
+    <div id="overlay"></div>
+
+    <div id="tableContainer">
+        <header id="header">Your reimbursement requests</header>
+        <table id="table" style=display:block>
+            <thead id="tableHead">
+                <th id="col1"> Reimubrsement ID </th>
+                <th id="col2"> Amount</th>
+                <th id="col3"> Reason </th>
+                <th id="col4"> Status</th>
+                <th id="col5"> Message</th>
+            </thead>
+        </table>
+    </div>
+
+
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search)
+        const user = urlParams.get("knight");
+        const header = document.getElementById("header");
+
+        const r_id = document.getElementById("col1");
+        const r_amount = document.getElementById("col2");
+        const r_reason = document.getElementById("col3");
+        const r_status = document.getElementById("col4");
+        const r_message = document.getElementById("col5");
+        header.innerHTML = `${user}'s reimubrsement requests`
+        const table = document.getElementById("table");
+        let knightInfo = null;
+
+        const newRequest = document.getElementById("send");
+        const closeForm = document.getElementById("exit");
+        const overlay = document.getElementById("overlay");
+        const form = document.getElementById("popup");
+        const submitButton = document.getElementById("submit");
+
+
+
+        newRequest.addEventListener('click', () => {
+            form.classList.add('active')
+            overlay.classList.add("active")
+        })
+
+        closeForm.addEventListener('click', () => {
+            form.classList.remove('active');
+            overlay.classList.remove('active');
+        })
+
+        submitButton.addEventListener('click', () => {
+            form.classList.remove('active');
+            overlay.classList.remove('active');
+            let amount = document.getElementById("amount");
+            let reason = document.getElementById("reason");
+            let data = {
+                "amount": amount.value,
+                "reason": reason.value,
+                "kId": knightInfo.knightId
+            }
+            fetch(`http://127.0.0.1:5000/knights/reimbursements`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            })
+
+        })
+
+
+        async function grab() {
+            console.log(user);
+            const knight = await fetch(`http://127.0.0.1:5000/knights/${user}`);
+            const body = await knight.json()
+            knightInfo = body;
+            const reimubrsementResponse = await fetch(`http://127.0.0.1:5000/knights/reimbursements/${body.knightId}`);
+            return reimbursements = await reimubrsementResponse.json();
+        }
+
+
+        document.addEventListener('DOMContentLoaded', async function () {
+            let list = await grab();
+            console.log(list)
+
+            for (let i = 0; i < list.length; i++) {
+                const row = document.createElement('tr');
+                let re_id = reimbursements[i].reimbursementId;
+                let re_amount = reimbursements[i].amount;
+                let re_reason = reimbursements[i].reason;
+                let re_status = reimbursements[i].status;
+                let re_message = ""
+                if (reimbursements[i].message != null) {
+                    re_message = reimbursements[i].message
+                }
+
+
+
+                row.className = "reimbursementRow";
+                row.innerHTML = `<td> ${re_id} </td>
+                        <td> ${re_amount} </td>
+                        <td> ${re_reason} </td>
+                        <td> ${re_status} </td>
+                        <td> ${re_message} </td>`
+                table.append(row)
+
+            }
+        });
+
+
+
+    </script>
+
+</body>

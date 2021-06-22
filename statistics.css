@@ -1,0 +1,17 @@
+#chart{
+    position: fixed;
+    top: 30%;
+    left: 10%;
+    width: 400px;
+    height: 400px;
+    max-width: 60%;
+}
+
+#barDiv{
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    width: 400px;
+    height: 400px;
+    max-width: 60%;
+}

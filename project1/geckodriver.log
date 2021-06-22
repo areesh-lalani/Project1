@@ -1,0 +1,1303 @@
+1624305696844	geckodriver	INFO	Listening on 127.0.0.1:55537
+1624305699908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileYNyVo1"
+1624305700728	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileYNyVo1\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624305703830	Marionette	INFO	Listening on port 55545
+1624305704131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624305704408	Marionette	INFO	Stopped listening on port 55545
+[Parent 4288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624306427377	geckodriver	INFO	Listening on 127.0.0.1:64596
+1624306430434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileeakPSe"
+1624306431216	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileeakPSe\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624306434106	Marionette	INFO	Listening on port 64604
+1624306434129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624306434381	Marionette	INFO	Stopped listening on port 64604
+[Parent 17608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624306498892	geckodriver	INFO	Listening on 127.0.0.1:64645
+1624306501979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileX24WIf"
+1624306502843	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileX24WIf\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624306505675	Marionette	INFO	Listening on port 64653
+1624306506174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624306506435	Marionette	INFO	Stopped listening on port 64653
+[Parent 12556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624306856559	geckodriver	INFO	Listening on 127.0.0.1:64777
+1624306859622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileIYMkyl"
+1624306860486	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileIYMkyl\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624306863295	Marionette	INFO	Listening on port 64786
+1624306863331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624306863652	Marionette	INFO	Stopped listening on port 64786
+[Parent 21908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307006383	geckodriver	INFO	Listening on 127.0.0.1:64830
+1624307009429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileoU5Kvh"
+1624307010227	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileoU5Kvh\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307013028	Marionette	INFO	Listening on port 64838
+1624307013138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624307013400	Marionette	INFO	Stopped listening on port 64838
+[Parent 10972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307228475	geckodriver	INFO	Listening on 127.0.0.1:64912
+1624307231539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile6lFUuy"
+1624307232308	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile6lFUuy\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307235220	Marionette	INFO	Listening on port 64920
+1624307235699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624307235975	Marionette	INFO	Stopped listening on port 64920
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 9928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307382579	geckodriver	INFO	Listening on 127.0.0.1:65009
+1624307385626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilem8b350"
+1624307386440	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilem8b350\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307389267	Marionette	INFO	Listening on port 65017
+1624307389321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624307389606	Marionette	INFO	Stopped listening on port 65017
+[Parent 19772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307505938	geckodriver	INFO	Listening on 127.0.0.1:65091
+1624307509002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileEjJK2v"
+1624307509761	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileEjJK2v\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307512530	Marionette	INFO	Listening on port 65099
+[Parent 6684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624307512676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624307512953	Marionette	INFO	Stopped listening on port 65099
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+[Parent 6684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+[Parent 6684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307543273	geckodriver	INFO	Listening on 127.0.0.1:65143
+1624307546324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilelWqLHn"
+1624307547048	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilelWqLHn\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307549824	Marionette	INFO	Listening on port 65152
+1624307550003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624307550306	Marionette	INFO	Stopped listening on port 65152
+[Parent 9400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307579158	geckodriver	INFO	Listening on 127.0.0.1:65196
+1624307582204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepgnLBY"
+1624307582962	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepgnLBY\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307585800	Marionette	INFO	Listening on port 65204
+1624307585922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1624307586425	Marionette	INFO	Stopped listening on port 65204
+[Parent 3932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307613313	geckodriver	INFO	Listening on 127.0.0.1:65248
+1624307616399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilerSoFfI"
+1624307617121	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilerSoFfI\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307619890	Marionette	INFO	Listening on port 65256
+1624307620091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1624307620588	Marionette	INFO	Stopped listening on port 65256
+[Parent 13500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624307739433	geckodriver	INFO	Listening on 127.0.0.1:65312
+1624307742513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile3NnHaA"
+1624307743246	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile3NnHaA\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624307746031	Marionette	INFO	Listening on port 65320
+1624307746159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1624307746666	Marionette	INFO	Stopped listening on port 65320
+[Parent 19720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624308026928	geckodriver	INFO	Listening on 127.0.0.1:65371
+1624308030019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileP5hfoC"
+1624308030753	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileP5hfoC\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624308033531	Marionette	INFO	Listening on port 65379
+1624308033713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1624308034634	Marionette	INFO	Stopped listening on port 65379
+[Parent 19708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624308358612	geckodriver	INFO	Listening on 127.0.0.1:49165
+1624308361673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile6PNwfI"
+1624308362367	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile6PNwfI\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624308365146	Marionette	INFO	Listening on port 49173
+1624308365375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624308366323	Marionette	INFO	Stopped listening on port 49173
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624308385753	geckodriver	INFO	Listening on 127.0.0.1:49238
+1624308388831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile4qYhT5"
+1624308389578	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile4qYhT5\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624308392330	Marionette	INFO	Listening on port 49246
+1624308392543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1624308393335	Marionette	INFO	Stopped listening on port 49246
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624320458285	geckodriver	INFO	Listening on 127.0.0.1:63610
+1624320461340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile5cYCf5"
+1624320462323	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile5cYCf5\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624320465256	Marionette	INFO	Listening on port 63618
+1624320465559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624320467082	Marionette	INFO	Stopped listening on port 63618
+[Parent 10900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624320576015	geckodriver	INFO	Listening on 127.0.0.1:63675
+1624320579075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile76DCu8"
+1624320579876	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile76DCu8\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624320582686	Marionette	INFO	Listening on port 63685
+1624320582779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624320584094	Marionette	INFO	Stopped listening on port 63685
+[Parent 21320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624320754827	geckodriver	INFO	Listening on 127.0.0.1:63749
+1624320757872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofiletQDjer"
+1624320758700	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofiletQDjer\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624320761537	Marionette	INFO	Listening on port 63757
+1624320761611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624320763283	Marionette	INFO	Stopped listening on port 63757
+[Parent 11676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624323681608	geckodriver	INFO	Listening on 127.0.0.1:64005
+1624323684669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepacmmH"
+1624323685429	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepacmmH\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624323688337	Marionette	INFO	Listening on port 64013
+1624323688423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624323691285	Marionette	INFO	Stopped listening on port 64013
+[Parent 19044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624323721138	geckodriver	INFO	Listening on 127.0.0.1:64084
+1624323724188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileCPADG2"
+1624323724963	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileCPADG2\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624323727764	Marionette	INFO	Listening on port 64092
+1624323727887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624323730120	Marionette	INFO	Stopped listening on port 64092
+[Parent 22084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624323823471	geckodriver	INFO	Listening on 127.0.0.1:64167
+1624323826547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileWs2ecw"
+1624323827324	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileWs2ecw\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624323830157	Marionette	INFO	Listening on port 64175
+1624323830263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624323832711	Marionette	INFO	Stopped listening on port 64175
+[Parent 19984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624323959386	geckodriver	INFO	Listening on 127.0.0.1:64254
+1624323962476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileFOXnLp"
+1624323963271	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileFOXnLp\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624323966199	Marionette	INFO	Listening on port 64262
+1624323966708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624323969900	Marionette	INFO	Stopped listening on port 64262
+[Parent 19508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624324691270	geckodriver	INFO	Listening on 127.0.0.1:64343
+1624324694290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile26ECKY"
+1624324695088	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile26ECKY\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624324698010	Marionette	INFO	Listening on port 64351
+1624324698049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624324702387	Marionette	INFO	Stopped listening on port 64351
+[Parent 12968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624326843054	geckodriver	INFO	Listening on 127.0.0.1:64532
+1624326846102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileoIJTd3"
+1624326846819	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileoIJTd3\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624326849635	Marionette	INFO	Listening on port 64540
+1624326849773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624326855900	Marionette	INFO	Stopped listening on port 64540
+[Parent 14520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624330075748	geckodriver	INFO	Listening on 127.0.0.1:65214
+1624330078757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile2KvahF"
+1624330079609	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile2KvahF\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624330082467	Marionette	INFO	Listening on port 65222
+1624330082940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624330088089	Marionette	INFO	Stopped listening on port 65222
+[Parent 3784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624330095671	geckodriver	INFO	Listening on 127.0.0.1:65281
+1624330098696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileahOufS"
+1624330099502	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileahOufS\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624330102385	Marionette	INFO	Listening on port 65289
+1624330102873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624330110532	Marionette	INFO	Stopped listening on port 65289
+[Parent 13768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624330418782	geckodriver	INFO	Listening on 127.0.0.1:65377
+1624330421843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileHwhOhU"
+1624330422629	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileHwhOhU\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624330425380	Marionette	INFO	Listening on port 65385
+1624330425515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624330434387	Marionette	INFO	Stopped listening on port 65385
+[Parent 16396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624330508502	geckodriver	INFO	Listening on 127.0.0.1:65463
+1624330511604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9u20Eu"
+1624330512419	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9u20Eu\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624330515311	Marionette	INFO	Listening on port 65471
+1624330515760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624330525195	Marionette	INFO	Stopped listening on port 65471
+[Parent 20540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624330562259	geckodriver	INFO	Listening on 127.0.0.1:49169
+1624330565342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileHmyf6J"
+1624330566114	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileHmyf6J\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624330568883	Marionette	INFO	Listening on port 49177
+1624330569002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624330578825	Marionette	INFO	Stopped listening on port 49177
+[Parent 10476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624334283650	geckodriver	INFO	Listening on 127.0.0.1:49408
+1624334286694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileQnriFw"
+1624334287596	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileQnriFw\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624334290504	Marionette	INFO	Listening on port 49416
+1624334290883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624334302410	Marionette	INFO	Stopped listening on port 49416
+[Parent 9236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624334412061	geckodriver	INFO	Listening on 127.0.0.1:49506
+1624334415099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile1MKO0Q"
+1624334415898	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile1MKO0Q\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624334418715	Marionette	INFO	Listening on port 49514
+1624334418793	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624334428074	Marionette	INFO	Stopped listening on port 49514
+[Parent 3196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624334466230	geckodriver	INFO	Listening on 127.0.0.1:49603
+1624334469293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileMOSZ4m"
+1624334470081	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileMOSZ4m\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624334472707	Marionette	INFO	Listening on port 49611
+1624334472985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624334483629	Marionette	INFO	Stopped listening on port 49611
+[Parent 17412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624334627541	geckodriver	INFO	Listening on 127.0.0.1:49700
+1624334630612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilexcX6PM"
+1624334631407	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilexcX6PM\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624334634189	Marionette	INFO	Listening on port 49708
+1624334634300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624334643012	Marionette	INFO	Stopped listening on port 49708
+[Parent 15496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624334750283	geckodriver	INFO	Listening on 127.0.0.1:49787
+1624334753333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofiler6pgpJ"
+1624334754106	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofiler6pgpJ\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624334756949	Marionette	INFO	Listening on port 49797
+1624334757008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1624334765731	Marionette	INFO	Stopped listening on port 49797
+[Parent 13756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624335070598	geckodriver	INFO	Listening on 127.0.0.1:49895
+1624335073666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileYOJKfW"
+1624335074470	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileYOJKfW\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335077330	Marionette	INFO	Listening on port 49903
+1624335077853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624335078769	Marionette	INFO	Stopped listening on port 49903
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335108114	geckodriver	INFO	Listening on 127.0.0.1:49944
+1624335111181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileLFIHK9"
+1624335112009	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileLFIHK9\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335114897	Marionette	INFO	Listening on port 49952
+1624335115390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624335122121	Marionette	INFO	Stopped listening on port 49952
+[Parent 18232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335312228	geckodriver	INFO	Listening on 127.0.0.1:50056
+1624335315250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile0sHhvZ"
+1624335316012	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile0sHhvZ\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335318932	Marionette	INFO	Listening on port 50064
+1624335319424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624335329642	Marionette	INFO	Stopped listening on port 50064
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 13008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624335754347	geckodriver	INFO	Listening on 127.0.0.1:50184
+1624335757393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilel5OnUi"
+1624335758121	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilel5OnUi\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335760877	Marionette	INFO	Listening on port 50192
+1624335761102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624335767202	Marionette	INFO	Stopped listening on port 50192
+[Parent 18920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624335890157	geckodriver	INFO	Listening on 127.0.0.1:50339
+1624335893221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9kB7kf"
+1624335893983	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9kB7kf\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335896708	Marionette	INFO	Listening on port 50347
+1624335896906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624335902971	Marionette	INFO	Stopped listening on port 50347
+[Parent 14232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624335949594	geckodriver	INFO	Listening on 127.0.0.1:50406
+1624335952681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9JeNTb"
+1624335953413	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile9JeNTb\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624335956183	Marionette	INFO	Listening on port 50414
+1624335956338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624335962427	Marionette	INFO	Stopped listening on port 50414
+[Parent 15224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624336498217	geckodriver	INFO	Listening on 127.0.0.1:49878
+1624336501310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileqoDeL6"
+1624336502208	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileqoDeL6\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624336505063	Marionette	INFO	Listening on port 49886
+1624336505523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624336514607	Marionette	INFO	Stopped listening on port 49886
+[Parent 15036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624336628502	geckodriver	INFO	Listening on 127.0.0.1:50034
+1624336631611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileTz4Ohw"
+1624336632340	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileTz4Ohw\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624336635284	Marionette	INFO	Listening on port 50042
+1624336635323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624336646746	Marionette	INFO	Stopped listening on port 50042
+[Parent 13392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624337911166	geckodriver	INFO	Listening on 127.0.0.1:63065
+1624337914212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileFxJl5E"
+1624337914928	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileFxJl5E\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624337917579	Marionette	INFO	Listening on port 63073
+1624337917940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624337924995	Marionette	INFO	Stopped listening on port 63073
+[Parent 8628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624338097552	geckodriver	INFO	Listening on 127.0.0.1:63210
+1624338100633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile8hb4Ok"
+1624338101393	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile8hb4Ok\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624338104216	Marionette	INFO	Listening on port 63218
+1624338104325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624338117411	Marionette	INFO	Stopped listening on port 63218
+[Parent 12372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624338150035	geckodriver	INFO	Listening on 127.0.0.1:63304
+1624338153134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile0fpOmz"
+1624338153895	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofile0fpOmz\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624338156695	Marionette	INFO	Listening on port 63312
+1624338156813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624338172980	Marionette	INFO	Stopped listening on port 63312
+[Parent 12880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624338695950	geckodriver	INFO	Listening on 127.0.0.1:63430
+1624338699031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilehOLix1"
+1624338699781	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilehOLix1\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624338702649	Marionette	INFO	Listening on port 63438
+1624338702737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1624338721120	Marionette	INFO	Stopped listening on port 63438
+[Parent 5832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624338729904	geckodriver	INFO	Listening on 127.0.0.1:63544
+1624338732973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileex9FDA"
+1624338733714	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileex9FDA\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624338736610	Marionette	INFO	Listening on port 63552
+1624338736654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624338751686	Marionette	INFO	Stopped listening on port 63552
+[Parent 2852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624338961707	geckodriver	INFO	Listening on 127.0.0.1:63649
+1624338964769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepjX5Yy"
+1624338965478	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofilepjX5Yy\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624338968202	Marionette	INFO	Listening on port 63657
+1624338968456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624338989328	Marionette	INFO	Stopped listening on port 63657
+[Parent 13740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624367190394	geckodriver	INFO	Listening on 127.0.0.1:59771
+1624367193478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileOLUmn3"
+1624367194254	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileOLUmn3\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624367197129	Marionette	INFO	Listening on port 59779
+1624367197160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624367228721	Marionette	INFO	Stopped listening on port 59779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624367349822	geckodriver	INFO	Listening on 127.0.0.1:59868
+1624367352904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileL7j13K"
+1624367353585	Marionette	INFO	Marionette enabled
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arees\\AppData\\Local\\Temp\\rust_mozprofileL7j13K\\search.json.mozlz4", (void 0)))
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1624367356543	Marionette	INFO	Listening on port 59876
+1624367356566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1624367373839	Marionette	INFO	Stopped listening on port 59876
+[Parent 8628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicvrdevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
